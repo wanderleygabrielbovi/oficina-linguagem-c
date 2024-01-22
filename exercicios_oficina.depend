@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1687727898 source:c:\users\wande\onedrive\desktop\exercicios_oficina\variaveis.c
+	<stdio.h>
+
+1687728880 source:c:\users\wande\onedrive\desktop\exercicios_oficina\valor_real.c
+	<stdio.h>
+
+1687730967 source:c:\users\wande\onedrive\desktop\exercicios_oficina\expressoes_printf.c
+	<stdio.h>
+
+1687731466 source:c:\users\wande\onedrive\desktop\exercicios_oficina\media_aritmetica.c
+	<stdio.h>
+
+1687732137 source:c:\users\wande\onedrive\desktop\exercicios_oficina\graus_para_fahrenheit.c
+	<stdio.h>
+
+1687732991 source:c:\users\wande\onedrive\desktop\exercicios_oficina\fahrenheit_para_celsius.c
+	<stdio.h>
+
+1687733320 source:c:\users\wande\onedrive\desktop\exercicios_oficina\media_if_maior_50.c
+	<stdio.h>
+
+1687733807 source:c:\users\wande\onedrive\desktop\exercicios_oficina\temperatura.c
+	<stdio.h>
+
+1687734933 source:c:\users\wande\onedrive\desktop\exercicios_oficina\idade_nadador.c
+	<stdio.h>
+
+1687735306 source:c:\users\wande\onedrive\desktop\exercicios_oficina\mercado.c
+	<stdio.h>
+
+1687743809 source:c:\users\wande\onedrive\desktop\exercicios_oficina\salario_liquido.c
+	<stdio.h>
+
+1687745877 source:c:\users\wande\onedrive\desktop\exercicios_oficina\carros.c
+	<stdio.h>
+	<string.h>
+
+1687745842 source:c:\users\wande\onedrive\desktop\exercicios_oficina\aumento_salario.c
+
+1688074802 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\aumento_salario.c
+	<stdio.h>
+
+1688074657 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\carros.c
+	<stdio.h>
+	<string.h>
+
+1688074793 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\expressoes_printf.c
+	<stdio.h>
+
+1688074781 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\fahrenheit_para_celsius.c
+	<stdio.h>
+
+1688074771 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\graus_para_fahrenheit.c
+	<stdio.h>
+
+1688074754 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\idade_nadador.c
+	<stdio.h>
+
+1688074731 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\media_aritmetica.c
+	<stdio.h>
+
+1688074722 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\media_if_maior_50.c
+	<stdio.h>
+
+1688074713 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\mercado.c
+	<stdio.h>
+
+1688074672 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\salario_liquido.c
+	<stdio.h>
+
+1688074682 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\temperatura.c
+	<stdio.h>
+
+1688074691 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\valor_real.c
+	<stdio.h>
+
+1688074703 source:c:\users\wande\onedrive\documentos\linguagem c\exercicios_oficina\variaveis.c
+	<stdio.h>
+
